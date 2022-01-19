@@ -1,7 +1,11 @@
+import SimpleForm from "./SimpleForm";
+
 const App = () => {
   return (
-    <div>REDUX FORM DEMO</div>
-  );
+    <div>
+      <SimpleForm />
+    </div>
+  )
 }
 
 export default App;
