@@ -1,4 +1,4 @@
 export const PATHS = {
     SIMPLE_FORM: '/',
-    TEMP: '/temp'
+    SYNC_VALIDATION_FORM: '/sync-validation-form',
 };
