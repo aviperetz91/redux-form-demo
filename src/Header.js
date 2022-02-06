@@ -28,6 +28,11 @@ const Header = () => (
                             Sync Validation Form
                         </Link>
                     </li>
+                    <li className='nav-item'>
+                        <Link className='nav-link' to={PATHS.SUBMIT_VALIDATION_FORM}>
+                            Submit Validation Form
+                        </Link>
+                    </li>
                 </ul>
             </div>
         </div>
